@@ -1,0 +1,3 @@
+0 Bacterial_Leaf
+1 Healthy
+2 Pest_Attack
